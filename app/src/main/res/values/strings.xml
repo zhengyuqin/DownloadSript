@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownloadScript</string>
+
+    <string name="xposed_decription">模拟器脚本</string>
+    <string name="fingerprint" translatable="false">10620ae961d78854f6c9cd872c4388232849c799</string>
+    <string name="msg_restrictedby">由 XPrivacy 限制</string>
+    <string name="auto_download">自动下载</string>
+</resources>
